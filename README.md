@@ -5,4 +5,6 @@ To find compelling stories, we created a fun contest to encourage sales engineer
 
 Impact:  The stories were distributed both online from splunk.com, and directly by sales people to leads. Sales was very happy with my work; several sales people credited my stories with helping them to close multi-million dollar deals. 
 
+Here are some reactions from the Splunk Sales team: 
 
+<img width="817" height="517" alt="Image" src="https://github.com/user-attachments/assets/1dfd66d0-c652-4da4-99ea-a6bfb9b6f497" />
